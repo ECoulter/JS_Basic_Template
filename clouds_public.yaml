@@ -1,0 +1,11 @@
+clouds:
+ cloud-name:
+  auth:
+   username: SAME-AS-OPENRC
+   auth_url: SAME-AS-OPENRC
+   project_name: SAME-AS-OPENRC
+   password: SAME-AS-OPENRC
+  user_domain_name: SAME-AS-OPENRC
+  project_domain_name: SAME-AS-OPENRC
+  identity_api_version: 3
+
